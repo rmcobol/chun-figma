@@ -31,3 +31,8 @@ https://www.google.com/?hl=ko <p>
   https://wrtn.ai/
 
 <b> 주제 : </b> <h2>AI 생성형 사업계획서</h2> <p>
+
+
+<h1>Figma 다운로드</h1>
+<h2 ><a href="https://www.figma.com/ko-kr/downloads/" style="color:red;">Figma 다운로드</a></h2>
+
