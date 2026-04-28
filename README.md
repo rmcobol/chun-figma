@@ -33,7 +33,7 @@ https://www.google.com/?hl=ko <p>
 <b> 주제 : </b> <h2>AI 생성형 사업계획서</h2> <p>
 
 <h1>Gemini 사이트</h1>
-<h2 ><a href=" https://gemini.google.com/app?hl=ko" style="color:red;">Figma 다운로드</a></h2>
+<h2 ><a href=" https://gemini.google.com/app?hl=ko" style="color:red;">제미나이</a></h2>
 
 <h1>Figma 다운로드</h1>
 <h2 ><a href="https://www.figma.com/ko-kr/downloads/" style="color:red;">Figma 다운로드</a></h2>
