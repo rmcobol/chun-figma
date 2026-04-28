@@ -36,7 +36,7 @@ https://www.google.com/?hl=ko <p>
 <h2 ><a href="https://gemini.google.com/app?hl=ko" style="color:red;">제미나이</a></h2>
 <hr>
 <h1>미리캔버스</h1>
-<h2 ><a href="https://www.miricanvas.com/ko" style="color:red;">제미나이</a></h2>
+<h2 ><a href="https://www.miricanvas.com/ko" style="color:red;">미리캔버스</a></h2>
 <hr>
 <h1>Figma 다운로드</h1>
 <h2 ><a href="https://www.figma.com/ko-kr/downloads/" style="color:red;">Figma 다운로드</a></h2>
