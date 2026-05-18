@@ -51,5 +51,9 @@ https://www.google.com/?hl=ko <p>
 <h2 ><a href="https://www.figma.com/community/file/1597170496120547339" style="color:red;">교재 Figma 2장<a></h2>
 <hr>
 
+<hr>
+<h1>Pretendard 글꼴 다운로드 설치</h1>
+<h2 ><a href="https://cactus.tistory.com/306?category=1007051" style="color:red;">Pretendard 글꼴 다운로드 설치<a></h2>
+<hr>
 
 
