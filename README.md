@@ -47,8 +47,8 @@ https://www.google.com/?hl=ko <p>
 
 
 <hr>
-<h1>교재 Figma 2장/h1>
-<h2 ><a href="https://www.figma.com/community/file/1597170496120547339" style="color:red;">교재 Figma 2장/<a></h2>
+<h1>교재 Figma 2장</h1>
+<h2 ><a href="https://www.figma.com/community/file/1597170496120547339" style="color:red;">교재 Figma 2장<a></h2>
 <hr>
 
 
