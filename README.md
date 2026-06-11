@@ -88,3 +88,7 @@ https://www.google.com/?hl=ko <p>
 <h2 ><a href="https://www.figma.com/design/OxYqOGPstrMYq2YPOqVa8T/-%E1%84%91%E1%85%B5%E1%84%80%E1%85%B3%E1%84%86%E1%85%A1-10%E1%84%87%E1%85%AE%E1%86%AB-%E1%84%85%E1%85%A6%E1%84%89%E1%85%B5%E1%84%91%E1%85%B5--%E1%84%87%E1%85%A9%E1%84%82%E1%85%A5%E1%84%89%E1%85%B3-PDF-%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AF--Community-?node-id=48-2&p=f&t=0Ycon48rpN9VV85h-0" style="color:red;">교재 Figma 부록<a></h2>
 <hr>
 
+<hr>
+<h1>교재 Figma 부록pdf </h1>
+<h2 ><a href="https://drive.google.com/drive/folders/11dT6tTKXyz8x2r06OKhgUif5CflJFrrz" style="color:red;">교재 Figma 부록pdf<a></h2>
+<hr>
